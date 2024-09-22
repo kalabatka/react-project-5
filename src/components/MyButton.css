@@ -1,0 +1,26 @@
+.myButton{
+
+    border: 2px solid blue;
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.new_bg {
+
+    background-color: rgb(87, 68, 232);
+}
+
+.new_color {
+color: green;
+font-size: 20px;
+
+}
+
+.hidden {
+
+    display: none;
+}
